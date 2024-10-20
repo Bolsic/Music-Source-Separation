@@ -1,2 +1,2 @@
 # Music Source Separation
- Analasys of different methods for sound source separation for musical instruments and their benefits and drawbacks.
+ The use of U-Net model and a U-Net Trasformer hybrid model for the task of separating musical instruments in a music recording. 
